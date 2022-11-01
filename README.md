@@ -49,8 +49,9 @@ pom.xml
 </plugin>
 ```
 
+Generate the stubs ann run test the provider
 ```
-$mvnw clean package
+$mvnw clean install
 ```
 
 
